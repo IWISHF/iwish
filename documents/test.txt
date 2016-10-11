@@ -1,1 +1,6 @@
-a git test project.
+﻿a git test project.
+i update this text in linux environment.
+Step:
+1 add
+2 commit
+3 push
