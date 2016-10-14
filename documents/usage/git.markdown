@@ -6,7 +6,7 @@ git config core.fileMode false
 ```
 >explain: ignore file right (because in linux system file has owner and access right)
 
-2. Config aliase for some git command
+3. Config aliase for some git command
 ```sh
 git config aliase.ss status
 ```
