@@ -75,4 +75,4 @@ npm install -g bower
 ```
 
 
-# IF You have error or problem when you install software, pelease write down it on FAQ.markdown file
+## IF You have error or problem when you install software, pelease write down it on FAQ.markdown file
