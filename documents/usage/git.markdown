@@ -1,6 +1,6 @@
 #Git useful skill
 
-- **Config you git let it easy to use**
+- **Config git ignore file access right**
 ```sh
 git config core.fileMode false
 ```
