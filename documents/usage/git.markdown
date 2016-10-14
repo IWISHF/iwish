@@ -1,12 +1,12 @@
 #Git useful skill
 
-1. Config you git let it easy to use
+- Config you git let it easy to use
 ```sh
 git config core.fileMode false
 ```
 >explain: ignore file right (because in linux system file has owner and access right)
 
-3. Config aliase for some git command
+- Config aliase for some git command
 ```sh
 git config aliase.ss status
 ```
